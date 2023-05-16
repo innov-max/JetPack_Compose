@@ -78,15 +78,16 @@ fun Greeting(message: String) {
 # Screenshots
 
 ![JetPack](app/src/main/res/drawable/shot1.png)
+![JetPack](app/src/main/res/drawable/shot2.png)
 
-## App Screenshot
-Resources
+
+## Resources
 
     Jetpack Compose Documentation
     Compose Academy
     Jetpack Compose Samples
 
-License
+## License
 
 This project is licensed under the MIT License.
 
