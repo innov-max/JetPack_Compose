@@ -75,7 +75,9 @@ fun Greeting(message: String) {
     Text(text = message)
 }
 
-Screenshots
+# Screenshots
+
+![JetPack](app/main/res/drawable/shot1.png)
 
 ## App Screenshot
 Resources
